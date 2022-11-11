@@ -2,7 +2,7 @@
 
 ## Purpose of this repository
 
-This repository contains all data and code necessary to reproduce the analyses presented in the manuscript "Characterizing responsiveness to the COVID-19 pandemic in the United States and Canada using mobility data" by Soucy et al. Note that the included scripts may produce additional tables and figures beyond those directly presented in the manuscript.
+This repository contains all data and code necessary to reproduce the analyses presented in the manuscript "Characterizing responsiveness to the COVID-19 pandemic in the United States and Canada using mobility data" by Soucy et al. (doi: [10.1101/2022.11.08.22282050](https://doi.org/10.1101/2022.11.08.22282050)). Note that the included scripts may produce additional tables and figures beyond those directly presented in the manuscript.
 
 ## Requirements
 
